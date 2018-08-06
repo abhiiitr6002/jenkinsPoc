@@ -1,0 +1,6 @@
+com\example\JenkinsTry\controller\JenkinsController.class
+com\example\JenkinsTry\models\Data.class
+com\example\JenkinsTry\service\Impl\PocServiceImpl.class
+com\example\JenkinsTry\App.class
+com\example\JenkinsTry\models\PocResponse.class
+com\example\JenkinsTry\service\PocInterface.class
